@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+.venv-build/
+venv/
+build/
+dist/
+logs/*.log
+cache/*.json
+config/settings.json
+packaging/assets/*.ico
