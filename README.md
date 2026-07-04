@@ -84,6 +84,10 @@ dist\installer\MusicLyrizSetup-0.1.0.exe
 
 Installed builds store settings, logs, and lyrics cache in `%LOCALAPPDATA%\Music Lyriz`.
 
+## Screenshot
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/65baaedf-615d-46e1-b947-4cc13627c5d7" />
+
+
 ## Test
 
 The current non-GUI tests use only the standard library:
